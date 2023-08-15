@@ -1,0 +1,17 @@
+{
+  // Enable/Disable the Automatic System of Remapping via Code
+  "EnableAutomaticRemapping": true,
+  // Enable/Disable the Defined Mapping list of Remapping - The defined list runs after the Automatic Remap
+  "EnableDefinedRemapping": false,
+  "DefinedRemapping": [
+  ],
+  "DefinedTypesToForcePublic": [
+  ],
+  "TypesToForceAllPublicMethods": [
+  ],
+  "TypesToForceAllPublicFieldsAndProperties": [
+    //"BaseLocalGame"
+  ],
+  // Add SptUsec and SptBear to the Dll
+  "EnableAddSPTUsecBearToDll": true
+}
